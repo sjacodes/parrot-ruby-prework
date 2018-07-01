@@ -3,4 +3,4 @@
 
 
 def parrot(string)
-  
+  puts
